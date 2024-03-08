@@ -1,0 +1,12 @@
+../Core/Src/ayLib/modbus/src/modbusAY.c:31:6:ModbusInit	0	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:426:6:ModbusElementsEqual	4	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:441:6:ModbusReadCoil	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:462:6:ModbusReadHoldingRegisters	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:483:6:ModbusReadInputRegisters	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:503:6:ModbusReadInputStatus	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:524:6:ModbusWriteForceSingleCoil	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:547:6:ModbusWriteForceMultipleCoil	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:570:6:ModbusWritePresetSingleRegister	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:591:6:ModbusWritePresetMultipleRegister	8	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:618:9:ModbusMasterWrite	16	static
+../Core/Src/ayLib/modbus/src/modbusAY.c:45:6:ModbusMasterControl	24	static
